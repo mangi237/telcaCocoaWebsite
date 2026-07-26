@@ -1,0 +1,6 @@
+{
+  "name": "Telcar Cocoa",
+  "description": "Leading Cameroonian cocoa exporter connecting Cameroon's finest cocoa beans to global markets with quality, integrity, and sustainability.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
